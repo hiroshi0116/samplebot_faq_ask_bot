@@ -24,14 +24,14 @@ DEFAULT_LANG = 'ja'
 
 # account
 ADMIN_ACCOUNT = "admin@xxx.com"
-DOMAIN_ID = 0
+DOMAIN_ID = 10019597
 
 # api
-API_ID = "kr1EHxxxxfJVz"
-SERVER_CONSUMER_KEY = "To8SnC7sxxxxxjqXZhO"
+API_ID = "jp1XZARdpEVrj"
+SERVER_CONSUMER_KEY = "P43EJHuDOQ1lYr4Imekv"
 
-SERVER_ID = "96460cc1e778402xxxxxfe35fa97ce76"
-SECRET_KEY_NAME = "private_201xxxxx164308.key"
+SERVER_ID = "622f9cb7846b48ba80f769c6d08a6c9b"
+SECRET_KEY_NAME = "private_20220131135323.key"
 
 # LOCAL ADDRESS
 LOCAL_ADDRESS = "https://[Heroku app name].herokuapp.com/"
